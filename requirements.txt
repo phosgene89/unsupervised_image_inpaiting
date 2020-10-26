@@ -4,3 +4,5 @@ torch
 torchvision
 -e git://github.com/IDSIA/sacred.git#egg=sacred
 pyyaml
+prettytable
+ignite
